@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlCssContainers", "HtmlCssContainers\HtmlCssContainers.csproj", "{EB3BD647-B63D-4C56-848C-8C9E38E678F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePage", "SinglePage\SinglePage.csproj", "{7AABDD9B-8456-4E9F-B545-FDD266E4432E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EB3BD647-B63D-4C56-848C-8C9E38E678F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB3BD647-B63D-4C56-848C-8C9E38E678F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB3BD647-B63D-4C56-848C-8C9E38E678F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AABDD9B-8456-4E9F-B545-FDD266E4432E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AABDD9B-8456-4E9F-B545-FDD266E4432E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AABDD9B-8456-4E9F-B545-FDD266E4432E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AABDD9B-8456-4E9F-B545-FDD266E4432E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
