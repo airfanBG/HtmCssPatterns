@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlCssContainers", "HtmlCs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePage", "SinglePage\SinglePage.csproj", "{7AABDD9B-8456-4E9F-B545-FDD266E4432E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodPage", "FoodPage\FoodPage.csproj", "{0F767485-3EB4-42CE-A348-E0A3236BCB6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7AABDD9B-8456-4E9F-B545-FDD266E4432E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AABDD9B-8456-4E9F-B545-FDD266E4432E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AABDD9B-8456-4E9F-B545-FDD266E4432E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F767485-3EB4-42CE-A348-E0A3236BCB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F767485-3EB4-42CE-A348-E0A3236BCB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F767485-3EB4-42CE-A348-E0A3236BCB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F767485-3EB4-42CE-A348-E0A3236BCB6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
