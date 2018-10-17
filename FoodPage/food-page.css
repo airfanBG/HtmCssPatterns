@@ -20,3 +20,30 @@ header h1{
     float: left;
     margin-bottom: 15px;
 }
+aside {
+    margin-left: 70%;
+    margin-top: 15px;
+    padding-top: 5px;
+}
+aside img{
+    width: 70%;
+}
+article{
+    padding-left:60px;
+}
+img{
+    width:100%;
+}
+p{
+    text-wrap:normal;
+    text-align:justify;
+}
+button {
+    background-color: #ec5353;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    height: 35px;
+    width: 100px;
+    cursor: pointer;
+}
